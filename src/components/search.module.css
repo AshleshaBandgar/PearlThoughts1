@@ -1,0 +1,23 @@
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: rgb(95, 91, 91);
+    min-height: 100vh;
+  }
+  input{
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 400px;
+    width: 350px;
+    font-weight: bolder;
+  }
+  button{
+    padding: 20px;
+    border-radius: 15px;
+    background-color: white;
+    color:rgb(32, 105, 32);
+    font-weight: bolder;
+  }
